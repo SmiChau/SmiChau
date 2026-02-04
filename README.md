@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Smriti!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 ### 👩‍💻 Computer Science Student | 📊 Data Science Enthusiast  
 ### 🐍 Python & Django Developer | Building Data-Driven Applications
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF6B8B&center=true&vCenter=true&width=700&lines=Data+Science+%26+Machine+Learning;Python+%7C+Django+%7C+Backend+Development;Turning+data+into+insights;Building+real-world+applications;Open+Source+Contributor" />
-
+<img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="320"/>
 <br/>
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" height="250"/>
@@ -114,21 +112,7 @@
 
 ---
 
-## 🐍 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmiChau&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="100%"/>
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SmiChau/SmiChau/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SmiChau&theme=radical&no-frame=true&row=2&column=4" />
-</p>
 
 ---
 
