@@ -1,4 +1,4 @@
-can you put some cool animation and also animated characters in this readme file
+
 # 💫 About Me:
 Computer Science student | Data Science enthusiast | Python & Django developer | Building data-driven applications<br>
 
