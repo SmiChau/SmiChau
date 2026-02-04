@@ -1,76 +1,18 @@
-<div align="center">
+can you put some cool animation and also animated characters in this readme file
+# 💫 About Me:
+Computer Science student | Data Science enthusiast | Python & Django developer | Building data-driven applications<br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&text=Smriti%20Chaudhary&fontSize=36&fontColor=ffffff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Data+Science+Enthusiast;Python+%7C+Django+Developer;Learning+ML+%26+Data+Analytics" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-chaudhary-90309438b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smichauxoxo@gmail.com) 
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" />
-
-</div>
-
----
-
-## 👩‍💻 About Me
-I’m a **Computer Science student** with a strong interest in **Data Science, Python, and Django**.  
-I enjoy building **data-driven applications**, backend systems, and continuously improving my skills in **Machine Learning, Analytics, and Web Development**.
-
-- 🎯 Focused on **Data Science & Backend Development**
-- 🧠 Learning **Machine Learning & Data Analysis**
-- 🚀 Building real-world projects with **Python & Django**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SmiChau&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SmiChau&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SmiChau&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SmiChau&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Connect With Me
-<p align="center">
-<a href="https://www.linkedin.com/in/smriti-chaudhary-90309438b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-5B6DCD?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:smichauxoxo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Programming & Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,php,java,c,django,dotnet" />
-</p>
-
-### 📊 Data Science & ML
-<p align="center">
-<img src="https://skillicons.dev/icons?i=numpy,pandas,opencv" />
-</p>
-
-### 🌐 Frontend & Styling
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
-</p>
-
-### 🗄 Databases & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,git,github,gitlab,postman,figma,wordpress" />
-</p>
-
----
-
-## 📊 GitHub Stats (Live & Real)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SmiChau&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SmiChau&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmiChau&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=footer"/>
-</p>
