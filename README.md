@@ -20,12 +20,11 @@ class Smriti:
     def __init__(self):
         self.name = "Smriti Chaudhary"
         self.role = "Computer Science Student"
-        self.interests = ["Data Science", "Web Development", "Machine Learning"]
-        self.currently_learning = ["Deep Learning", "Advanced Django"]
+        self.interests = ["Data Science", "Web Development", "Django"]
         self.fun_fact = "I debug with coffee ☕ and determination 💪"
     
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 💖")
+        print("Thanks for dropping by! Let's build something amazing together!")
 
 me = Smriti()
 me.say_hi()
@@ -44,7 +43,7 @@ me.say_hi()
 
 ---
 
-## 💖 Tech Stack
+## 👩🏻‍💻 Tech Stack
 
 <div align="center">
 
