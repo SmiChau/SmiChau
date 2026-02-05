@@ -5,7 +5,7 @@
 ### 💻 Computer Science Student | 📊 Data Science Enthusiast | 🐍 Python & Django Developer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SmiChau/SmiChau/main/assets/github.jpg" width="280" alt="Girl coding" />
+  <img src="https://raw.githubusercontent.com/SmiChau/SmiChau/main/assets/codinggirl.jpg" width="280" alt="Girl coding" />
 </p>
 
 
