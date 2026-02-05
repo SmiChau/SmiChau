@@ -97,20 +97,21 @@ me.say_hi()
 </div>
 
 
+
 ---
 
 <div align="center">
 
-## 🐍 My Contribution Snake Friend!
+## 🎮 Pac-Man Eating My Contributions!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmiChau/SmiChau/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmiChau/SmiChau/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SmiChau/SmiChau/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmiChau/SmiChau/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmiChau/SmiChau/output/pacman-contribution-graph.svg">
+  <img alt="github contribution grid pacman animation" src="https://raw.githubusercontent.com/SmiChau/SmiChau/output/pacman-contribution-graph.svg">
 </picture>
+
+*Waka waka! 🟡*
 
 </div>
 
 ---
-
-
