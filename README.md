@@ -5,8 +5,9 @@
 ### 💻 Computer Science Student | 📊 Data Science Enthusiast | 🐍 Python & Django Developer
 
 <p align="center">
-  <img src="https://media.tenor.com/6s2Rdbbl8E4AAAAC/girl-coding.gif" width="280" alt="Girl coding animation" />
+  <img src="https://raw.githubusercontent.com/SmiChau/SmiChau/main/assets/github.jpg" width="280" alt="Girl coding" />
 </p>
+
 
 
 
