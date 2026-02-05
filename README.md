@@ -117,4 +117,11 @@ me.say_hi()
 ---
 
 ---
+<div align="center">
+
+## 🐍 Contribution Explorer
+
+<img src="https://raw.githubusercontent.com/SmiChau/SmiChau/output/snake-pastel.svg" alt="color snake exploring contributions" />
+
+</div>
 
