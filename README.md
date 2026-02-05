@@ -4,7 +4,9 @@
 
 ### 💻 Computer Science Student | 📊 Data Science Enthusiast | 🐍 Python & Django Developer
 
-<img src="https://media.tenor.com/6s2Rdbbl8E4AAAAC/girl-coding.gif" width="300" />
+<p align="center">
+  <img src="https://media.tenor.com/6s2Rdbbl8E4AAAAC/girl-coding.gif" width="280" alt="Girl coding animation" />
+</p>
 
 
 
