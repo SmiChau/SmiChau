@@ -4,11 +4,9 @@
 
 ### 💻 Computer Science Student | 📊 Data Science Enthusiast | 🐍 Python & Django Developer
 
-<img src="" width="400">
+<img src="https://raw.githubusercontent.com/your-username/repo/main/assets/girl-coding.gif" width="300" />
 
-<p align="center">
-  <em>Building data-driven applications with passion and creativity! 🚀</em>
-</p>
+
 
 </div>
 
