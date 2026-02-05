@@ -98,13 +98,23 @@ me.say_hi()
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
+---
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/SmiChau/SmiChau/output/github-contribution-grid-snake-dark.svg)
+
+## 🐍 My Contribution Snake Friend!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmiChau/SmiChau/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmiChau/SmiChau/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SmiChau/SmiChau/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 
 </div>
+
+---
 
 ---
 
