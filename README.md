@@ -90,10 +90,9 @@ me.say_hi()
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=SmiChau&theme=radical&hide_border=true&include_all_commits=false&count_private=false" height="170" />
+
 <img src="https://nirzak-streak-stats.vercel.app/?user=SmiChau&theme=radical&hide_border=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmiChau&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
 </div>
 
