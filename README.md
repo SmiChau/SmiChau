@@ -1,5 +1,3 @@
-So this is my github read me profile, can you just analyze the code
-
 # 💫 About Me:
 Computer Science student | Data Science enthusiast | Python & Django developer | Building data-driven applications<br>
 
