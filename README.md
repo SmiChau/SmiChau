@@ -4,7 +4,7 @@
 
 ### 💻 Computer Science Student | 📊 Data Science Enthusiast | 🐍 Python & Django Developer
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400">
+<img src="" width="400">
 
 <p align="center">
   <em>Building data-driven applications with passion and creativity! 🚀</em>
@@ -109,20 +109,3 @@ me.say_hi()
 
 ---
 
-<div align="center">
-
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### ✨ Profile Views
-[![](https://visitcount.itsvg.in/api?id=SmiChau&icon=2&color=6)](https://visitcount.itsvg.in)
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-### ⭐ From [SmiChau](https://github.com/SmiChau) with 💖
-
-*"Code is like humor. When you have to explain it, it's bad!"* 😄
-
-</div>
