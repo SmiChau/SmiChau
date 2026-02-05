@@ -95,24 +95,22 @@ me.say_hi()
 
 
 </div>
-<div align="center">
-  ## 🐍 Contribution Explorer
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmiChau/SmiChau/output/snake-dark-neon.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmiChau/SmiChau/output/snake-pastel.svg">
-    <img alt="github contribution explorer snake" src="https://raw.githubusercontent.com/SmiChau/SmiChau/output/snake-soft.svg">
-  </picture>
-</div>
 
 
 ---
+
 <div align="center">
 
-## 🐍 Contribution Explorer
+## 🐍 My Contribution Snake Friend!
 
-<img src="https://raw.githubusercontent.com/SmiChau/SmiChau/output/snake-pastel.svg" alt="color snake exploring contributions" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmiChau/SmiChau/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmiChau/SmiChau/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SmiChau/SmiChau/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
+
+
