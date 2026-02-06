@@ -91,11 +91,10 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SmiChau&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
 
 <img src="https://streak-stats.demolab.com?user=SmiChau&theme=tokyonight&hide_border=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmiChau&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
 
 </div>
 
