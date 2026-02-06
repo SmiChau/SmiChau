@@ -90,11 +90,12 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=SmiChau&theme=radical&hide_border=true&include_all_commits=false&count_private=false" height="170" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=SmiChau&theme=radical&hide_border=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmiChau&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=SmiChau&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+
+<img src="https://streak-stats.demolab.com?user=SmiChau&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmiChau&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
