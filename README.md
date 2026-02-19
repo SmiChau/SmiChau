@@ -89,6 +89,14 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+
+<img src="https://streak-stats.demolab.com?user=SmiChau&theme=tokyonight&hide_border=true" height="170" />
+
+
+
+</div>
 
 ---
 
