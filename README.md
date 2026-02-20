@@ -103,7 +103,7 @@ me.say_hi()
 
 <div align="center">
 
-## 🎮 Pac-Man Eating My Contributions!
+## 🎮 Pac-Man Eating My Contributions!!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmiChau/SmiChau/output/pacman-contribution-graph.svg">
