@@ -92,7 +92,6 @@ me.say_hi()
 <div align="center">
 
 
-<img src="https://streak-stats.demolab.com?user=SmiChau&theme=tokyonight&hide_border=true" height="170" />
 
 
 
